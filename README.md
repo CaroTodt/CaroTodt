@@ -27,11 +27,14 @@
                 
 <h2 align="left">Website</h2>
 <a href="https://todt-carolina.netlify.app   " target="blank">https://todt-carolina.netlify.app   </a>
-                                                                                                                      
+
+                                                             
+<h2 align="left">Codepen</h2>
+<a href="https://codepen.io/caroTodt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="todt-carolina" height="30" width="40" /></a>
                                                                                                                                  
 <h2 align="left">Contact with me:</h2>
 <a href="www.linkedin.com/in/carolina-todt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="todt-carolina" height="30" width="40" /></a>
-<a href="https://codepen.io/caroTodt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="todt-carolina" height="30" width="40" /></a>
+
 
 
 
