@@ -39,7 +39,6 @@
  </p>
  
   <h2 align="left">Statistics</h2>
-
 <p align="center">
  <a href="">
         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CaroTodt&show_icons=true&include_all_commits=true&count_private=true&line_height=40" />
