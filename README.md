@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Todt Carolina </h1>
 
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroTodt&layout=compact&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
+
 <p>A frontend developer with 2+ years of experience in maintaining and building web pages. I am passionate about web development with good knowledge of Data Structures and Algorithms.</p>
 <p>Interested in new opportunities and challenges that will expand my skill set.</p>
 
@@ -37,18 +41,6 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
  </p>
- 
-  <h2 align="left">Statistics</h2>
-<p align="center">
- <a href="">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CaroTodt&show_icons=true&include_all_commits=true&count_private=true&line_height=40" />
-    </a>
-    <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaroTodt&line_height=40&hide=css"/>
-    </a>
-    </div>
-</p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carotodt&" alt="carotodt" /></p>
                 
 <h2 align="left">Website</h2>
 <a href="https://todt-carolina.netlify.app   " target="blank">https://todt-carolina.netlify.app   </a>
