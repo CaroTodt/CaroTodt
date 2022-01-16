@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Todt Carolina </h1>
 
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroTodt&layout=compact&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-
-
 <p>A frontend developer with 2+ years of experience in maintaining and building web pages. I am passionate about web development with good knowledge of Data Structures and Algorithms.</p>
 <p>Interested in new opportunities and challenges that will expand my skill set.</p>
 
