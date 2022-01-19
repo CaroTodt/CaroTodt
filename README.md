@@ -5,7 +5,7 @@
 
 <h2 align="left">Resume</h2>
 
-- *System Analyst* graduated from  the [National Technological University](https://utn.edu.ar/es/)
+- *Systems Analyst* graduated from  the [National Technological University](https://utn.edu.ar/es/)
 - *Frontend Developer* at [Rosario Software](https://www.rosariosoftware.com/)
 
 <h2 align="left">Languages and Tools</h2>
