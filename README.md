@@ -53,7 +53,7 @@
 
 <p align="left">
 <a href="https://codepen.io/carotodt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="carotodt" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/carolina-todt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carolina-todt/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carolina-todt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carolina-todt/" height="30" width="40" /></a>
 </p>
 
 
